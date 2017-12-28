@@ -1,0 +1,5 @@
+Context managers are a lot of fun and come in handy all the time. I use them in my automated tests
+all the time for opening and closing dialogs, for example. Now you should be able to use some of
+Python’s built-in tools to create your own context managers. Be sure to take the time to read the
+Python documentation on contextlib as there are lots of additional information that is not covered
+in this chapter. Have fun and happy coding!
